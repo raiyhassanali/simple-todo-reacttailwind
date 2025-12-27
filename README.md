@@ -25,3 +25,41 @@ The goal of this project is to understand the **basics of React state, input han
 
 ## Project Structure
 
+src/
+├─ App.jsx
+├─ main.jsx
+├─ index.css
+
+
+---
+
+## How It Works
+
+1. User types a todo in the input field
+2. Clicking **Add** stores the todo in state
+3. Todos are displayed using `.map()`
+4. Edit and Delete buttons are present only for layout practice
+
+This project intentionally avoids:
+- IDs
+- Reducers
+- LocalStorage
+- Complex patterns
+
+---
+
+## Installation & Setup
+
+1. Clone the repository
+```bash
+git clone <your-repo-url>
+
+
+Install dependencies
+
+npm install
+
+
+Start the development server
+
+npm run dev
