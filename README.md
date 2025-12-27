@@ -52,7 +52,7 @@ This project intentionally avoids:
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git https://github.com/raiyhassanali/simple-todo-reacttailwind
 
 
 Install dependencies
